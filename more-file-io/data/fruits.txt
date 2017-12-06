@@ -1,0 +1,11 @@
+﻿Fruits
+apple
+banana
+peach
+pear
+orange
+strawberry
+kiwi
+pineapple
+grapes
+pomegranate

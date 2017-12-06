@@ -1,0 +1,11 @@
+﻿Animals
+ostrich
+goose
+black bear
+barn owl
+hyena
+dolphin
+hippo
+duck
+fox
+horse
